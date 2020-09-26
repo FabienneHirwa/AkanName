@@ -1,21 +1,22 @@
 *{
     font-family: 'Roboto', sans-serif !important;
+    background-color: papayawhip !important;
 }
 .tit h1{
     text-align: center;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
     font-size: 50px;
-    color: rgb(0, 4, 255);
+    color:sienna;
     font-weight: 900;
     margin-bottom: 50px;
 }
  h2{
     font-family: 'Roboto', sans-serif;
-    font-size: 40px;
-    color: orange;
-    font-weight: 700;
-    margin-bottom: 10px;
+    font-size: 28px !important;
+    color: tomato;
+    font-weight: 900 !important;
+    margin-bottom: 10px !important;
 }
 .col-md-6  li{
     font-size: 14px !important;
