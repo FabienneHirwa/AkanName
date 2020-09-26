@@ -1,0 +1,26 @@
+*{
+    font-family: 'Roboto', sans-serif !important;
+}
+.tit h1{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 4, 255);
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+ h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: orange;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.col-md-6  li{
+    font-size: 14px !important;
+}
+.card-group{
+    padding-left: 10px !important;
+    
+}
