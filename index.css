@@ -27,12 +27,11 @@
 }
 input{
     width: 400px !important;
+    border-color:  tomato !important;
 
 }
 form{
     margin-left: 20px !important;
     padding-bottom: 30px;
 }
-.form-group{
-  margin-left: 20px!important;
-}
+
