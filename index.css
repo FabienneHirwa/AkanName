@@ -34,5 +34,5 @@ form{
     padding-bottom: 30px;
 }
 .form-group{
-    display: inline-block !important;
+  margin-left: -20px!important;
 }
