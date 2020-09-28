@@ -33,3 +33,6 @@ form{
     margin-left: 20px !important;
     padding-bottom: 30px;
 }
+.form-group{
+    display: inline-block !important;
+}
